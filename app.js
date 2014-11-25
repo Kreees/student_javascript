@@ -11,7 +11,7 @@ var urlencodedParser = bodyParser.urlencoded({ extended: false })
 var userdataFileName = __dirname + "/userdata.json"
 var sessionsFileName = __dirname + "/sessions.json"
 
-var time_before_logout = 30000
+var time_before_logout = 300000;
 
 var timeouts = {}
 
