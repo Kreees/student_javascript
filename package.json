@@ -1,0 +1,8 @@
+{
+  "dependencies":
+  {
+    "express":"*",
+    "body-parser":"*",
+    "cookie-parser":"*"
+  }
+}
